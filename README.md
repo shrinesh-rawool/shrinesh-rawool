@@ -25,98 +25,164 @@ Here are some ideas to get you started:
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-### Building intelligent systems — one model at a time.
+<div align="center">
 
-**`AI/ML Engineer in Progress`** &nbsp;·&nbsp; **`Diploma → B.Tech CSE`** &nbsp;·&nbsp; **`Kolhapur, India`**
+# Hi, I'm Shrinesh Rawool 👋
+
+### Building ML Systems, Intelligent Infrastructure, and Autonomous Decision-Making Systems
+
+**AI/ML Graduate (Diploma)** • **Future B.Tech CSE Student** • **Aspiring ML Systems Engineer**
+
+📍 Kolhapur, Maharashtra, India
 
 </div>
 
 ---
 
-## About me
+## About Me
 
-I'm a final-semester Diploma student in **Artificial Intelligence & Machine Learning** from Dr. Bapuji Salunkhe Institute of Engineering and Technology, Kolhapur. My core interest is in building systems that actually *do* something — reinforcement learning agents, deep learning pipelines, LLM-based tools.
+I'm an AI & Machine Learning graduate with a strong interest in the intersection of:
 
-Outside of AI, I have a deep curiosity for **astronomy & astrophysics** — the kind that makes you wonder if computational methods and space science can eventually converge.
+* Machine Learning
+* Reinforcement Learning
+* Distributed Systems
+* Systems Programming
+* Intelligent Infrastructure
 
-Currently in my break before B.Tech. Using the time to build, learn, and contribute.
+My goal is to evolve from building ML models to building complete production-grade ML systems.
 
----
-
-## What I'm working on
-
-- 🔬 &nbsp;Preparing an **IEEE research paper** on NeuroFlow-FL (federated RL for traffic control)
-- 📄 &nbsp;**Patent filing** in progress — RL-based adaptive traffic signal system
-- 🛠 &nbsp;Building software development projects to broaden beyond ML
-- 📖 &nbsp;Going deeper into **operating systems** and systems programming
+Currently exploring operating systems, networking, distributed computing, and system design while developing large-scale intelligent traffic management systems.
 
 ---
 
-## Featured projects
+## Current Focus
 
-### 🚦 NeuroFlow-FL — Federated RL Traffic Signal Control
-> Deep Reinforcement Learning meets privacy-preserving Federated Learning for intelligent traffic management.
+* 🚦 Building **NeuroFlow-X** — Intelligent Urban Digital Twin & Traffic Operating System
+* 📄 Preparing IEEE research work on reinforcement learning for traffic optimization
+* 🔬 Exploring ML Systems Engineering and Systems Programming
+* 🐧 Deepening Linux, Networking, Operating Systems, and Backend Engineering skills
+* 🦀 Learning foundations required for Rust-based system development
 
-- **73.7% reduction** in average vehicle wait time vs. fixed-time baselines
-- DQN & PPO agents trained in SUMO simulator; PPO showed ~15.7% performance edge
-- Federated architecture — multiple intersections coordinate without sharing raw data
-- Emergency vehicle preemption for real-time priority handling
-- IEEE paper & patent in progress
+---
 
-`Python` `PyTorch` `Stable-Baselines3` `SUMO` `Federated Learning` `Reinforcement Learning`
+## Featured Projects
+
+### 🚦 NeuroFlow-FL
+
+Federated Reinforcement Learning for Intelligent Traffic Signal Control
+
+**Highlights**
+
+* Achieved 73.7% reduction in vehicle waiting time
+* Compared DQN and PPO agents in realistic SUMO simulations
+* Implemented Federated Learning for multi-intersection coordination
+* Emergency vehicle prioritization support
+* IEEE paper and patent work in progress
+
+**Stack**
+
+`Python` `PyTorch` `Stable-Baselines3` `SUMO` `Federated Learning` `RL`
 
 ---
 
 ### 🤖 Interview Preparation Chatbot
-> AI-powered interview coach with dynamic question generation, multi-modal input, and LLM-driven answer evaluation.
 
-- Generates role-specific interview questions using **Ollama LLMs** (Gemma-3, LLaMA, Mistral)
-- Accepts both **typed and audio answers** (speech-to-text via Google SpeechRecognition API)
-- Scores each answer on a **1–10 scale** with reasoning feedback
-- Deployed as a full **Streamlit web app**
+AI-powered interview coaching platform using local LLMs.
 
-`Python` `Ollama` `Gemma-3` `Streamlit` `SpeechRecognition` `NLP`
+**Features**
 
----
+* Dynamic question generation
+* Audio and text input
+* Speech-to-text transcription
+* LLM-based scoring and feedback
+* Streamlit deployment
 
-### 📊 ML Internship Portfolio — iGap Technologies
-> 10+ end-to-end machine learning and deep learning projects built during a 12-week industry internship.
+**Stack**
 
-Includes: pneumonia detection from X-rays, face mask detection, handwritten digit recognition, heart disease classification, diabetes prediction, movie recommendation system, and more.
-
-`Python` `TensorFlow` `Keras` `Scikit-learn` `CNNs` `Transfer Learning` `Flask` `Streamlit`
+`Python` `Ollama` `Gemma` `Llama` `Mistral` `Streamlit`
 
 ---
 
-## Tech stack
+### 🧠 ML & Deep Learning Portfolio
 
-```python
-skills = {
-    "languages"  : ["Python", "HTML", "CSS", "Basic C"],
-    "ml_dl"      : ["PyTorch", "TensorFlow", "Keras", "Scikit-learn", "Stable-Baselines3"],
-    "concepts"   : ["Reinforcement Learning", "Deep Learning", "Federated Learning",
-                    "CNNs", "RNNs", "Transfer Learning", "LLMs", "NLP"],
-    "deployment" : ["Streamlit", "Flask", "Ollama"],
-    "tools"      : ["Git", "Linux", "Jupyter", "SUMO Simulator", "MySQL"],
-}
-```
+Collection of ML/DL projects built during industry internship.
+
+Projects include:
+
+* Pneumonia Detection
+* Face Mask Detection
+* Heart Disease Prediction
+* Diabetes Prediction
+* Handwritten Digit Recognition
+* Movie Recommendation System
+
+**Stack**
+
+`TensorFlow` `Keras` `Scikit-Learn` `Flask` `Streamlit`
+
+---
+
+## Technical Skills
+
+### Languages
+
+`Python` `C (Learning)` `HTML` `CSS` `JavaScript`
+
+### Machine Learning
+
+`PyTorch`
+`TensorFlow`
+`Keras`
+`Scikit-Learn`
+`Stable-Baselines3`
+
+### Areas of Interest
+
+* Reinforcement Learning
+* Deep Learning
+* Federated Learning
+* NLP & LLM Applications
+* ML Systems
+* Distributed Systems
+* Systems Programming
+
+### Tools
+
+`Linux`
+`Git`
+`Docker`
+`MySQL`
+`SUMO`
+`Jupyter`
+
+---
+
+## Long-Term Vision
+
+Building systems that can:
+
+* Observe the world
+* Learn from data
+* Make decisions autonomously
+* Scale efficiently
+
+NeuroFlow-X is my step toward that vision.
 
 ---
 
 ## Connect
 
-<div align="center">
+🔗 LinkedIn: [linkedin.com/in/shrinesh-rawool-91b331292](https://www.linkedin.com/in/shrinesh-rawool-91b331292/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shrinesh%20Rawool-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/shrinesh-rawool-91b331292)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-shrinesh.rawool.28%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:shrinesh.rawool.28@gmail.com)
+📧 Email: [shrinesh.rawool.28@gmail.com](mailto:shrinesh.rawool.28@gmail.com)
 
-*Open to ML/AI and software development internships — relocating anywhere in India.*
-
-</div>
+💼 Open to ML, AI, Backend, and Software Engineering opportunities.
 
 ---
 
 <div align="center">
-<sub>This profile is a work in progress — just like every good model.</sub>
+
+*"From models to systems."*
+
 </div>
+
