@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# Hi, I'm Shrinesh Rawool 👋
+# Hi, I'm Shrinesh Rawool 🦕
 
 ### Building ML Systems, Intelligent Infrastructure, and Autonomous Decision-Making Systems
 
