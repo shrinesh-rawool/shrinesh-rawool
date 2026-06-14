@@ -25,43 +25,41 @@ Here are some ideas to get you started:
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-<div align="center">
+<div align="left">
 
 # Hi, I'm Shrinesh Rawool 🦕
 
-### Building ML Systems, Intelligent Infrastructure, and Autonomous Decision-Making Systems
+Software Engineering & AI Enthusiast | AI/ML Graduate | Future B.Tech Student
 
-**AI/ML Graduate (Diploma)** • **Future B.Tech CSE Student** • **Aspiring ML Systems Engineer**
-
-📍 Kolhapur, Maharashtra, India
-
-</div>
-
----
+📍 Maharashtra, India
 
 ## About Me
 
-I'm an AI & Machine Learning graduate with a strong interest in the intersection of:
+I'm an AI & Machine Learning graduate who enjoys building software systems, backend applications, and AI-powered tools.
 
-* Machine Learning
-* Reinforcement Learning
-* Distributed Systems
-* Systems Programming
-* Intelligent Infrastructure
+My interests span software engineering, backend development, machine learning, and system design. I enjoy creating projects that combine practical software engineering with AI technologies.
 
-My goal is to evolve from building ML models to building complete production-grade ML systems.
+Currently, I'm strengthening my foundations in:
 
-Currently exploring operating systems, networking, distributed computing, and system design while developing large-scale intelligent traffic management systems.
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Operating Systems
+* Computer Networks
+* Database Systems
+* Linux & Git
+
+while continuing to build AI and machine learning projects.
 
 ---
 
-## Current Focus
+## Experience
 
-* 🚦 Building **NeuroFlow-X** — Intelligent Urban Digital Twin & Traffic Operating System
-* 📄 Preparing IEEE research work on reinforcement learning for traffic optimization
-* 🔬 Exploring ML Systems Engineering and Systems Programming
-* 🐧 Deepening Linux, Networking, Operating Systems, and Backend Engineering skills
-* 🦀 Learning foundations required for Rust-based system development
+### Machine Learning Intern — iGAP Technologies Pvt. Ltd.
+
+* Developed machine learning and deep learning applications using Python, Scikit-learn, TensorFlow, and Keras
+* Built AI-powered applications using Streamlit and local LLMs
+* Worked on computer vision, NLP, and predictive modeling projects
+* Developed an Interview Preparation Chatbot with automated evaluation and speech-to-text support
 
 ---
 
@@ -71,17 +69,14 @@ Currently exploring operating systems, networking, distributed computing, and sy
 
 Federated Reinforcement Learning for Intelligent Traffic Signal Control
 
-**Highlights**
+* Reduced average vehicle waiting time by 73.7%
+* Implemented DQN and PPO agents using Stable-Baselines3
+* Designed custom Gymnasium environments for traffic simulations
+* Built a federated learning framework for multi-intersection coordination
 
-* Achieved 73.7% reduction in vehicle waiting time
-* Compared DQN and PPO agents in realistic SUMO simulations
-* Implemented Federated Learning for multi-intersection coordination
-* Emergency vehicle prioritization support
-* IEEE paper and patent work in progress
+**Tech Stack**
 
-**Stack**
-
-`Python` `PyTorch` `Stable-Baselines3` `SUMO` `Federated Learning` `RL`
+Python • PyTorch • SUMO • Gymnasium • Stable-Baselines3 • Federated Learning
 
 ---
 
@@ -89,36 +84,14 @@ Federated Reinforcement Learning for Intelligent Traffic Signal Control
 
 AI-powered interview coaching platform using local LLMs.
 
-**Features**
+* Dynamic interview question generation
+* Automated answer evaluation and feedback
+* Speech-to-text support
+* Interactive Streamlit interface
 
-* Dynamic question generation
-* Audio and text input
-* Speech-to-text transcription
-* LLM-based scoring and feedback
-* Streamlit deployment
+**Tech Stack**
 
-**Stack**
-
-`Python` `Ollama` `Gemma` `Llama` `Mistral` `Streamlit`
-
----
-
-### 🧠 ML & Deep Learning Portfolio
-
-Collection of ML/DL projects built during industry internship.
-
-Projects include:
-
-* Pneumonia Detection
-* Face Mask Detection
-* Heart Disease Prediction
-* Diabetes Prediction
-* Handwritten Digit Recognition
-* Movie Recommendation System
-
-**Stack**
-
-`TensorFlow` `Keras` `Scikit-Learn` `Flask` `Streamlit`
+Python • Ollama • Streamlit • SpeechRecognition • LLMs
 
 ---
 
@@ -126,63 +99,38 @@ Projects include:
 
 ### Languages
 
-`Python` `C (Learning)` `HTML` `CSS` `JavaScript`
+Python • Java • C • SQL • JavaScript
 
-### Machine Learning
+### Software Engineering
 
-`PyTorch`
-`TensorFlow`
-`Keras`
-`Scikit-Learn`
-`Stable-Baselines3`
+Git • GitHub • Linux • Docker • REST APIs • FastAPI • Flask
 
-### Areas of Interest
+### AI & Machine Learning
 
-* Reinforcement Learning
-* Deep Learning
-* Federated Learning
-* NLP & LLM Applications
-* ML Systems
-* Distributed Systems
-* Systems Programming
+PyTorch • TensorFlow • Keras • Scikit-Learn • Deep Learning • Reinforcement Learning • NLP • LLMs
 
-### Tools
+### Databases
 
-`Linux`
-`Git`
-`Docker`
-`MySQL`
-`SUMO`
-`Jupyter`
+PostgreSQL • MySQL
 
 ---
 
-## Long-Term Vision
+## Current Goals
 
-Building systems that can:
-
-* Observe the world
-* Learn from data
-* Make decisions autonomously
-* Scale efficiently
-
-NeuroFlow-X is my step toward that vision.
+* Strengthen software engineering fundamentals
+* Build larger backend and distributed systems projects
+* Contribute to open source projects
+* Gain industry experience through internships
+* Continue exploring AI and machine learning applications
 
 ---
 
 ## Connect
 
-🔗 LinkedIn: [linkedin.com/in/shrinesh-rawool-91b331292](https://www.linkedin.com/in/shrinesh-rawool-91b331292/)
+LinkedIn: linkedin.com/in/shrinesh-rawool
 
-📧 Email: [shrinesh.rawool.28@gmail.com](mailto:shrinesh.rawool.28@gmail.com)
+Email: [shrinesh.rawool.28@gmail.com](mailto:shrinesh.rawool.28@gmail.com)
 
-💼 Open to ML, AI, Backend, and Software Engineering opportunities.
+Always open to learning, collaboration, and internship opportunities.
 
----
-
-<div align="center">
-
-*"From models to systems."*
-
-</div>
 
