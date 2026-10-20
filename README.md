@@ -27,110 +27,106 @@ Here are some ideas to get you started:
 
 <div align="left">
 
+</div>
+
 # Hi, I'm Shrinesh Rawool 🦕
 
-Software Engineering & AI Enthusiast | AI/ML Graduate | Future B.Tech Student
+**B.Tech CSE (AI & ML) Student | Backend & Distributed Systems | Multi-Agent Reinforcement Learning**
 
-📍 Maharashtra, India
+📍 Kolhapur, Maharashtra, India
+
+---
 
 ## About Me
 
-I'm an AI & Machine Learning graduate who enjoys building software systems, backend applications, and AI-powered tools.
+I'm a Computer Science & Engineering (AI & ML) undergraduate at **D.Y. Patil College of Engineering and Technology** (Expected 2029), holding a Diploma in AI & Machine Learning (**94.24% aggregate**) from **Dr. Bapuji Salunkhe Institute of Engineering & Technology**.
 
-My interests span software engineering, backend development, machine learning, and system design. I enjoy creating projects that combine practical software engineering with AI technologies.
+I enjoy engineering scalable backend systems, decentralized multi-agent coordination platforms, and reinforcement learning environments that bridge simulation and real-world constraints.
 
-Currently, I'm strengthening my foundations in:
+Currently focusing on:
+- **Backend Architecture:** FastAPI, relational schema design, RBAC, and CI/CD pipelines
+- **Multi-Agent & Federated RL:** Decentralized coordination (MAPPO, DQN, PPO) and sim-to-real transfer
+- **Core CS Foundations:** Data Structures & Algorithms, Operating Systems, Distributed Systems, and Database Internals
 
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Operating Systems
-* Computer Networks
-* Database Systems
-* Linux & Git
+---
 
-while continuing to build AI and machine learning projects.
+## Featured Projects
+
+### 🤖 ARES — Decentralized AMR Coordination Platform *(SIH 2026)*
+*Sep 2026 – Present*
+
+Decentralized Autonomous Mobile Robot (AMR) fleet coordination system operating without a central controller.
+
+- Built a peer-to-peer communication layer using **ZeroMQ**, enabling robots to exchange positions, trajectory reservations, and dynamic costmap updates in real time
+- Implemented **Space-Time A\*** with vertex reservations, edge-swap prevention, and goal holding for collision-free multi-robot path planning on a 30×30 warehouse grid
+- Developed a **CTDE MAPPO** architecture featuring decentralized 45-dimensional actors and a 225-dimensional centralized critic, training up to 5 AMRs via 4-stage curriculum learning and domain randomization
+
+**Tech Stack:** `Python` • `PyTorch` • `ZeroMQ` • `MAPPO` • `Docker` • `Pygame`
+
+---
+
+### 🛠️ DevBoard — Developer Workspace & Project Management Backend
+*June 2026 – Present*
+
+Production-style backend platform for managing developer workspaces, projects, tasks, and API keys.
+
+- Engineered **25+ REST endpoints** with **JWT authentication** and role-based access control (**RBAC**) across 4 distinct workspace roles
+- Designed a **10+ table PostgreSQL schema** with optimized indexing, secure `bcrypt`-based API key management, **Alembic** database migrations, and granular activity logging
+- Containerized the service stack with **Docker Compose** and automated testing/deployment workflows via **GitHub Actions CI**
+
+**Tech Stack:** `FastAPI` • `PostgreSQL` • `SQLAlchemy` • `Alembic` • `Docker` • `JWT` • `GitHub Actions`
+
+---
+
+### 🚦 NeuroFlow-FL — Federated RL for Intelligent Traffic Signal Control
+*Sep 2025 – Apr 2026*
+
+Federated reinforcement learning framework for multi-intersection traffic optimization.
+
+- Developed **DQN** and **PPO** traffic-signal controllers in **SUMO**, reducing average vehicle waiting time by **73.7%** over fixed-time baselines after 200K training timesteps
+- Designed custom **Gymnasium** environments for multi-intersection networks supporting emergency vehicle preemption and federated model aggregation
+
+**Tech Stack:** `Python` • `PyTorch` • `SUMO` • `Gymnasium` • `Stable-Baselines3` • `Federated Learning`
 
 ---
 
 ## Experience
 
 ### Machine Learning Intern — iGAP Technologies Pvt. Ltd.
+*June 2025 – Aug 2025 | Kolhapur, MH*
 
-* Developed machine learning and deep learning applications using Python, Scikit-learn, TensorFlow, and Keras
-* Built AI-powered applications using Streamlit and local LLMs
-* Worked on computer vision, NLP, and predictive modeling projects
-* Developed an Interview Preparation Chatbot with automated evaluation and speech-to-text support
-
----
-
-## Featured Projects
-
-### 🚦 NeuroFlow-FL
-
-Federated Reinforcement Learning for Intelligent Traffic Signal Control
-
-* Reduced average vehicle waiting time by 73.7%
-* Implemented DQN and PPO agents using Stable-Baselines3
-* Designed custom Gymnasium environments for traffic simulations
-* Built a federated learning framework for multi-intersection coordination
-
-**Tech Stack**
-
-Python • PyTorch • SUMO • Gymnasium • Stable-Baselines3 • Federated Learning
+- Built and evaluated end-to-end ML pipelines for classification and predictive modeling using **Python** and **Scikit-learn**, covering preprocessing, feature engineering, training, and evaluation
+- Developed **TensorFlow/Keras** applications for image classification and computer vision, integrating trained models into interactive **Streamlit** interfaces
+- Built local-LLM and NLP applications using **Ollama** and **Streamlit**, including an **Interview Preparation Chatbot** featuring dynamic question generation, automated answer scoring, feedback, and speech-to-text support
 
 ---
 
-### 🤖 Interview Preparation Chatbot
+## Publications
 
-AI-powered interview coaching platform using local LLMs.
+- **A Survey of Reinforcement Learning Approaches for Traffic Signal Control** — *IJERT (April 2026)*  
+  Co-authored a comparative survey evaluating Q-Learning, DQN, PPO, and multi-agent reinforcement learning architectures for intelligent urban traffic control.
 
-* Dynamic interview question generation
-* Automated answer evaluation and feedback
-* Speech-to-text support
-* Interactive Streamlit interface
-
-**Tech Stack**
-
-Python • Ollama • Streamlit • SpeechRecognition • LLMs
+- **Ethical and Computational Challenges in Fairness-Aware FL in Healthcare** — *IJRASET (July 2025)*  
+  First author; analyzed fairness, privacy, scalability, and computational trade-offs in healthcare federated learning.  
+  🔗 **DOI:** `10.22214/ijraset.2025.72946`
 
 ---
 
 ## Technical Skills
 
-### Languages
-
-Python • Java • C • SQL • JavaScript
-
-### Software Engineering
-
-Git • GitHub • Linux • Docker • REST APIs • FastAPI • Flask
-
-### AI & Machine Learning
-
-PyTorch • TensorFlow • Keras • Scikit-Learn • Deep Learning • Reinforcement Learning • NLP • LLMs
-
-### Databases
-
-PostgreSQL • MySQL
-
----
-
-## Current Goals
-
-* Strengthen software engineering fundamentals
-* Build larger backend and distributed systems projects
-* Contribute to open source projects
-* Gain industry experience through internships
-* Continue exploring AI and machine learning applications
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python • Java • C • JavaScript • SQL |
+| **Backend** | FastAPI • Flask • REST API Design • SQLAlchemy • Alembic • JWT • RBAC |
+| **Databases** | PostgreSQL • MySQL • Schema Design • Indexing |
+| **AI & ML** | PyTorch • TensorFlow • Keras • Scikit-learn • Reinforcement Learning (MAPPO, PPO, DQN) • Federated Learning • NLP • LLMs |
+| **DevOps & Tools** | Docker • Docker Compose • Git • GitHub Actions • Linux • ZeroMQ • SUMO • Gymnasium • Ollama • Streamlit |
 
 ---
 
 ## Connect
 
-LinkedIn: linkedin.com/in/shrinesh-rawool
+- **LinkedIn:** [linkedin.com/in/shrinesh-rawool](https://linkedin.com/in/shrinesh-rawool)
+- **Email:** [shrinesh.rawool.28@gmail.com](mailto:shrinesh.rawool.28@gmail.com)
 
-Email: [shrinesh.rawool.28@gmail.com](mailto:shrinesh.rawool.28@gmail.com)
-
-Always open to learning, collaboration, and internship opportunities.
-
-
+Always open to collaborating on backend systems, multi-agent RL research, and software engineering internships.
