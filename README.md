@@ -25,10 +25,6 @@ Here are some ideas to get you started:
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-<div align="left">
-
-</div>
-
 # Hi, I'm Shrinesh Rawool 🦕
 
 **B.Tech CSE (AI & ML) Student | Backend & Distributed Systems | Multi-Agent Reinforcement Learning**
